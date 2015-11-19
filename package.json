@@ -1,0 +1,22 @@
+{
+  "name": "tap_appveyor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamestalmage/__tap_appveyor.git"
+  },
+  "author": "James Talmage <james@talmage.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamestalmage/__tap_appveyor/issues"
+  },
+  "homepage": "https://github.com/jamestalmage/__tap_appveyor#readme",
+  "devDependencies": {
+    "tap": "^2.3.0"
+  }
+}
